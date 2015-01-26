@@ -1,2 +1,3 @@
 # juliusakula
-Github Pages!
+Github Pages setup!
+https://pages.github.com/
